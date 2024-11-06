@@ -1,0 +1,7 @@
+C:\Users\hp\source\repos\XML FILE\XML_DTD\XML_DTD\bin\Debug\XML_DTD.exe.config
+C:\Users\hp\source\repos\XML FILE\XML_DTD\XML_DTD\bin\Debug\XML_DTD.exe
+C:\Users\hp\source\repos\XML FILE\XML_DTD\XML_DTD\bin\Debug\XML_DTD.pdb
+C:\Users\hp\source\repos\XML FILE\XML_DTD\XML_DTD\obj\Debug\XML_DTD.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\XML FILE\XML_DTD\XML_DTD\obj\Debug\XML_DTD.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\XML FILE\XML_DTD\XML_DTD\obj\Debug\XML_DTD.exe
+C:\Users\hp\source\repos\XML FILE\XML_DTD\XML_DTD\obj\Debug\XML_DTD.pdb

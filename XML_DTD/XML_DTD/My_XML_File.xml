@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<!--  We can create dtd file and , we can call that file in this xml file like css in html
+      For that first create txt file with dtd extension and declare all the elements in that file 
+	  and call that file in this xml file with the help of syntax i.e  -->
+
+	  <!--    <!DOCTYPE Student SYSTEM "My_DTD_File.dtd">    -->
+
+<!DOCTYPE Student[
+	<!--
+	- We can use | keyword for choice of element name out of two like (class | standard).
+	- We can use ANY keyword , if we use this we can use that element or not its depends on us,
+	  in normal condition means if we cna't use ANY keyword we must declare element in to xml file.
+	  ex Student ANY
+    - We can use + sign on any keyword , if we use this it means we can use it more than onc times 
+	  or minimum once in the xml file.   -  Student(name+,age).
+	- We can use * keyword for any emelent , if we use this we use this element in xml file min zero times
+	  and multiple times  -  Student(name*,age,class).
+	- We can use ? sign on any element, if we use this on any keyword we can use it once or zero times 
+	  Student(name?,age,class).
+	- We can use mixed content , it means we can use any element zero times ,once or twice more than that,
+	  Student (#PCDATA|name|age|class)* .	  
+	--> 
+	
+<!ELEMENT Student (name,age,class,entities)>
+	<!ELEMENT name (#PCDATA)>
+	<!ELEMENT age (#PCDATA)>
+	<!ELEMENT class (#PCDATA)>
+	<!ELEMENT entities (#PCDATA)>
+
+    <!--
+    If we want to use attributes then we must declare first in the dtd file i.e with proper syntax
+	<!ATTLIST element_name  attribute_name  attribute_datatype "default_value">
+	For default value - <!ATTLIST name id CDATA "123">
+	For must value    - <!ATTLIST name id CDATA #REQUIRED>
+	For not mandatory value  - <!ATTLIST name id CDATA #IMPLIED>
+	For fix value     - <!ATTLIST name id CDATA #FIXED "1234">
+    -->
+    <!ATTLIST name id CDATA "123">
+
+    <!--
+	If we want to use entities in xml document, we must declare in dtd file first then only we can use that,
+	Syntax for declaration - <!ENTITIES Name_of_Entity "Value_of_Entity">
+	Syntax for fetching the data of Entity  - &Name_of_Entity;
+	-->
+	<!ENTITY word "Hello">
+	<!ENTITY full_name "Rajesh Kumar">
+
+]> 
+
+<Student>
+	<name id="12">Raj</name>
+	<age>24</age>
+	<class>10</class>
+	<!--  We can use the above declared entity in xml one or more than one at once i.e -->
+    <entities>  &word;  &full_name;  </entities>
+</Student>
+ f

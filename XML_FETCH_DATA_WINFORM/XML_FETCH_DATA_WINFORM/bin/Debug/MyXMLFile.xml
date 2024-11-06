@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+
+<!--I have to change in advance that build action is to embedded resource and 
+copy to output direction is to always copy-->
+
+<!--This is root node-->
+<Class_Fifth>
+	<!--This is child node-->
+	<Student id="1">
+		<!--These are subchild node-->
+		<name>   Ram  </name>
+		<age>    22   </age>
+		<gender> Male </gender>
+	</Student>
+
+	<Student id="2">
+		<name>   Ram  </name>
+		<age>    22   </age>
+		<gender> Male </gender>
+	</Student>
+	
+	<Student id="3">
+		<name>   Ram  </name>
+		<age>    22   </age>
+		<gender> Male </gender>
+	</Student>
+</Class_Fifth>

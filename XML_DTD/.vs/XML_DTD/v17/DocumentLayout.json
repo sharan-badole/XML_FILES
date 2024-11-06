@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\source\\repos\\XML FILE\\XML_DTD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E1E6FD50-A846-4912-B8F4-A4F4AA3AE272}|XML_DTD\\XML_DTD.csproj|c:\\users\\hp\\source\\repos\\xml file\\xml_dtd\\xml_dtd\\my_xml_file.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{E1E6FD50-A846-4912-B8F4-A4F4AA3AE272}|XML_DTD\\XML_DTD.csproj|solutionrelative:xml_dtd\\my_xml_file.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1E6FD50-A846-4912-B8F4-A4F4AA3AE272}|XML_DTD\\XML_DTD.csproj|c:\\users\\hp\\source\\repos\\xml file\\xml_dtd\\xml_dtd\\my_dtd_file.dtd||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E1E6FD50-A846-4912-B8F4-A4F4AA3AE272}|XML_DTD\\XML_DTD.csproj|solutionrelative:xml_dtd\\my_dtd_file.dtd||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1E6FD50-A846-4912-B8F4-A4F4AA3AE272}|XML_DTD\\XML_DTD.csproj|c:\\users\\hp\\source\\repos\\xml file\\xml_dtd\\xml_dtd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1E6FD50-A846-4912-B8F4-A4F4AA3AE272}|XML_DTD\\XML_DTD.csproj|solutionrelative:xml_dtd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "My_DTD_File.dtd",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\XML FILE\\XML_DTD\\XML_DTD\\My_DTD_File.dtd",
+              "RelativeDocumentMoniker": "XML_DTD\\My_DTD_File.dtd",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\XML FILE\\XML_DTD\\XML_DTD\\My_DTD_File.dtd",
+              "RelativeToolTip": "XML_DTD\\My_DTD_File.dtd",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003572|",
+              "WhenOpened": "2024-11-06T07:54:34.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "My_XML_File.xml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\XML FILE\\XML_DTD\\XML_DTD\\My_XML_File.xml",
+              "RelativeDocumentMoniker": "XML_DTD\\My_XML_File.xml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\XML FILE\\XML_DTD\\XML_DTD\\My_XML_File.xml",
+              "RelativeToolTip": "XML_DTD\\My_XML_File.xml",
+              "ViewState": "AgIAACMAAAAAAAAAAAAuwDkAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-11-06T07:46:29.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\XML FILE\\XML_DTD\\XML_DTD\\Program.cs",
+              "RelativeDocumentMoniker": "XML_DTD\\Program.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\XML FILE\\XML_DTD\\XML_DTD\\Program.cs",
+              "RelativeToolTip": "XML_DTD\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T07:45:19.409Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
